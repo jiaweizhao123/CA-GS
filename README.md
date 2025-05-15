@@ -1,6 +1,6 @@
 <h1 style="text-align:center;">CA-GS: Restoring Occluded Details in 3DGS via Contribution Aware Densification Across Viewpoints</h1>
 
-<center>
+<p align="center">
     <a href='#'><u>Dongliang Guo</u></a><sup>1,*</sup>
     <a href='#'><u>Jiawei Zhao</u></a><sup>1,*</sup>
     <a href='#'><u>Le Xu</u></a><sup>1</sup>
@@ -8,16 +8,16 @@
     <a href='#'><u>Yong Tang</u></a><sup>1</sup>
     <a href='#'><u>Feng Wang</u></a><sup>1</sup>
     <a href='#'><u>Wei Liu</u></a><sup>2</sup>
-</center>
+</p>
 
-<center>
+<p align="center">
     <sup>1</sup>Yan Shan University <sup>2</sup>University of Technology Sydney
     <br>*Indicates Equal Contribution
-</center>
+</p>
 
-<center>
+<p align="center">
     <a href="#">Paper</a> <b>|</b> <a href="#">arxiv</a> <b>|</b> <a href="#">Project Page</a>
-</center>
+</p>
 
 <img src="./teaser/teaser.png" alt="teaser">
 <p>This repository is the project code of "CA-GS_Restoring Occluded Details in 3DGS via Contribution Aware Densification Across Viewpoints".</p>
