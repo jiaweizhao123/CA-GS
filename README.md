@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">CA-GS: Restoring Occluded Details in 3DGS via Contribution Aware Densification Across Viewpoints</h1>
+<h1 align="center">CA-GS: Restoring Occluded Details in 3DGS via Contribution Aware Densification Across Viewpoints</h1>
 
 <p align="center">
     <a href='#'><u>Dongliang Guo</u></a><sup>1,*</sup>
