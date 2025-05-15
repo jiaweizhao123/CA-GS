@@ -15,12 +15,13 @@
     <br>*Indicates Equal Contribution
 </p>
 
+<h4>
 <p align="center">
     <a href="#">Paper</a> <b>|</b> <a href="#">arxiv</a> <b>|</b> <a href="#">Project Page</a>
 </p>
+</h4>
 
 <img src="./teaser/teaser.png" alt="teaser">
-<p>This repository is the project code of "CA-GS_Restoring Occluded Details in 3DGS via Contribution Aware Densification Across Viewpoints".</p>
 <p>We present a contribution-weighted gradient accumulation method that eliminates blurry artifacts during reconstruction. (a) Real image and initial point cloud visualization. (b) Rendering comparison with 3DGS. Notably, Our method improves
 detail recovery in occluded regions. (c) Point cloud and memory comparison with 3DGS (both enlarged with 20% Gaussian blur
 for contrast). (d) Gaussians may experience occlusion issues across different viewpoints, hindering their normal growth and
